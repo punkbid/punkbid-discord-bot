@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "module": "esnext",
+    "target": "esnext",
+    "esModuleInterop": true,
+    "strict": true,
+    "declaration": true,
+    "outDir": "./lib"
+  },
+  "include": ["src/**/*.ts", "test/**/*.ts"]
+}
