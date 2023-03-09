@@ -1,6 +1,6 @@
 {
   "name": "@punk.bid/discord-bot",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Discord bot sending notifications when a sale/offer/bid happens on the LarvaLabs marketplace",
   "author": "caapi <punk.bid@proton.me>",
   "license": "MIT",
